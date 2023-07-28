@@ -1,2 +1,2 @@
-# learningjs
-Repo for my Javascript Learnings
+# Learning JavaScript
+Repo for my JavaScriptLearnings
