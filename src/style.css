@@ -2,3 +2,19 @@ body {
   background-color: #312f2f;
   color: white;
 }
+
+main {
+  margin: 0 auto;
+  max-width:600px;
+  /* display:inline-block; */
+}
+
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.photo {
+  border-radius:50%;
+}
